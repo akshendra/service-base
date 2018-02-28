@@ -1,5 +1,5 @@
 {
-  "name": "@akshendra/service",
+  "name": "service-base",
   "version": "0.0.1",
   "description": "Base used for all the services",
   "main": "index.js",
