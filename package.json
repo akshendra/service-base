@@ -1,6 +1,6 @@
 {
-  "name": "service-base",
-  "version": "0.0.1",
+  "name": "@akshendra/service",
+  "version": "0.0.2",
   "description": "Base used for all the services",
   "main": "index.js",
   "scripts": {
